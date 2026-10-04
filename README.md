@@ -115,7 +115,7 @@ Le notebook `notebooks/coud_smat_Glasses.ipynb` contient la version Colab de dé
 
 ## 👩‍💻 Auteure
 
-**Rkia** — Élève ingénieure en IA (2IA), ENSIAS, Université Mohammed V de Rabat.
+**Rkia Ouhsain** — Élève ingénieure en IA (2IA), ENSIAS, Université Mohammed V de Rabat.
 
 ## 📄 Licence
 
