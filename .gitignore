@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
+.idea/
+.vscode/
+*.mp3
+*.wav
+runs/
+# Poids du modèle (téléchargés automatiquement par Ultralytics)
+*.pt
+.DS_Store
